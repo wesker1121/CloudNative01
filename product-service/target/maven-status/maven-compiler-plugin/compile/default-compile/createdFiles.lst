@@ -1,0 +1,4 @@
+microservicedemo\productservice\ProductServiceApplication.class
+microservicedemo\productservice\po\Product.class
+microservicedemo\productservice\controller\ProductController.class
+microservicedemo\productservice\mapper\ProductMapper.class

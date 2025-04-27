@@ -1,0 +1,5 @@
+cn\microservicedemo\productclient\Client\ProductServiceClient.class
+cn\microservicedemo\productclient\controller\ProductServiceClientController.class
+cn\microservicedemo\productclient\model\Product.class
+cn\microservicedemo\productclient\ProductClientApplication.class
+cn\microservicedemo\productclient\Client\ProductServiceFallback.class

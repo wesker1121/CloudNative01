@@ -1,5 +1,5 @@
 server:
-  port: 9999
+  port: 8888
 spring:
   application:
     name: @artifactId@
@@ -9,9 +9,9 @@ spring:
     gateway:
       discovery:
         locator:
-          # 开启以服务id去注册中心上获取转发地址
+          ##开启以服务id去注册中心上获取转发地址
           enabled: true
-          # 小写serviceId
+          ##小写serviceId
           lower-case-service-id: true
       routes:
         - id: product-client

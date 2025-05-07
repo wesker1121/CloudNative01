@@ -2,7 +2,7 @@ server:
   port: 8018
 spring:
   profiles:
-    active:  "dev"
+    active: k8s
   application:
     name: product-client
 ribbon:
